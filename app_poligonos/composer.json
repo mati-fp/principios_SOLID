@@ -1,0 +1,15 @@
+{
+    "name": "matip/app_poligonos",
+    "authors": [
+        {
+            "name": "Mateus",
+            "email": "matipoletto@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\" : "src/"
+        }
+    }
+}
